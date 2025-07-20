@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student at CSU East Bay  
 🚀 Product Strategist | Full-Stack Developer | UX Researcher  
-🌐 [LinkedIn](https://linkedin.com/in/chanpreet-singh-25900325) | 📧 chanpreet@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/chanpreet-singh-25900325) | 📧 9906chanpreet@gmail.com  
 
 🔧 Technical Skills
 **Languages:** Kotlin, Python  
