@@ -7,6 +7,7 @@ I ship AI-powered products, organize hackathons, and build things that solve rea
 [![Portfolio](https://img.shields.io/badge/Portfolio-chanpreetsingh.tech-00e5ff?style=flat-square&logo=googlechrome&logoColor=white)](https://chanpreetsingh.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanpreet_Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanpreet-singh-259003259)
 [![Email](https://img.shields.io/badge/Email-chanpreet.singh.cv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chanpreet.singh.cv@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-00ff88?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/Jagga-tech/Jagga-tech/raw/main/resume.pdf)
 
 ---
 
