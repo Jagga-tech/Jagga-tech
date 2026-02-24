@@ -68,7 +68,7 @@ Administrative ops, scheduling, and student services. First professional role.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jagga-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&icon_color=00ff88&text_color=c8c8c8" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagga-tech&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00e5ff&fire=00ff88&currStreakLabel=00e5ff" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Jagga-tech&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00e5ff&fire=00ff88&currStreakLabel=00e5ff" height="165" />
 </p>
 
 ---
