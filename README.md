@@ -1,108 +1,79 @@
-# 👋 Hi, I'm Chanpreet Singh
+# Chanpreet Singh
 
-🎓 Computer Science student at **California State University, East Bay**  
-📍 Hayward, CA  
-🚀 **Product Manager | Product Strategist | Technical PM (in training)**  
+**Product Manager & AI Builder** · Bay Area, CA
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chanpreet-singh-259003259)  
-📧 cna7@horizon.csueastbay.edu  
-🌐 [Portfolio](https://chanpreetsingh.tech)
+I ship AI-powered products, organize hackathons, and build things that solve real problems. Currently a CS student at Cal State East Bay, OpenAI Student Ambassador, and founder of [Alovia AI](https://aloviaai.com).
 
----
-
-## 🧠 About Me
-
-I am a **product-focused computer science student** with hands-on experience owning product direction, defining MVPs, and translating user needs into scalable technical solutions. I work at the intersection of **product strategy, engineering, and user research**, with a strong interest in **PM internships and early-career product roles**.
-
-I have led product initiatives involving:
-- MVP scoping and roadmap prioritization
-- User research and success metrics
-- Cross-functional collaboration with engineers and stakeholders
-- Analytics-driven product iteration
+[![Portfolio](https://img.shields.io/badge/Portfolio-chanpreetsingh.tech-00e5ff?style=flat-square&logo=googlechrome&logoColor=white)](https://chanpreetsingh.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chanpreet_Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanpreet-singh-259003259)
+[![Email](https://img.shields.io/badge/Email-chanpreet.singh.cv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chanpreet.singh.cv@gmail.com)
 
 ---
 
-## 🛠️ Core Skills
+### What I Do
 
-### Product & Strategy
-- Product Strategy & Roadmapping  
-- MVP Scoping & Prioritization (RICE, Value vs Effort)  
-- PRDs & Feature Specifications  
-- User Research & UX Flows  
-- Analytics & Success Metrics (Firebase Analytics, GA4)  
-- Agile / Scrum Collaboration  
+I work at the intersection of **product strategy** and **AI engineering**. I define roadmaps, talk to users, write PRDs, and then build the thing myself.
 
-### Technical
-- **Languages:** Kotlin, Python  
-- **Frameworks & Tools:** Kotlin Multiplatform, Spring Boot, Firebase, Jetpack Compose  
-- **Platforms:** Android, Backend APIs  
-- **Product Tools:** Figma, Git, GitHub  
+```
+Product Thinking  ███████████████████░  95%
+AI / LLM Integration  ████████████████████  100%
+Shipping Speed  ██████████████████░░  90%
+User Research  █████████████████░░░  85%
+```
 
 ---
 
-## 🚀 Featured Projects
+### Featured Work
 
-### 📱 Univibe — Student Collaboration Platform  
-**Product Manager | Kotlin, Firebase, Spring Boot**  
-🔗 [GitHub](https://github.com/Jagga-tech) | 🌐 [Case Study](https://chanpreetsingh.tech)
-
-- Owned product vision and defined MVP scope for a cross-university collaboration platform  
-- Prioritized roadmap across chat, events, and marketplace features  
-- Conducted user research and defined success metrics and analytics strategy  
-- Led feature planning across real-time chat, onboarding, and engagement flows  
+| Project | What it is | Role | Status |
+|---------|-----------|------|--------|
+| [**Alovia AI**](https://aloviaai.com) | AI content protection platform — bot blocking & watermarking | Founder, Product & Engineering | 🟢 Live |
+| **HackHayward** | Campus-wide hackathon at CSUEB | Organizing Team & Tech Lead | 🟡 Active |
+| **Univibe** | Student collaboration platform | Product Manager | ⏸️ Paused |
+| [**PantryPal**](https://github.com/Jagga-tech/Pantry) | Android grocery & recipe management app | Full-Stack Developer | ✅ Shipped |
 
 ---
 
-### 🛒 Pantry Pal — Smart Grocery & Recipe Assistant  
-**Product & Mobile Development**  
-- Designed and built an OCR-powered MVP for grocery tracking  
-- Defined core user flows for fast item capture and usability  
-- Identified retention and engagement metrics to guide iteration  
+### Skills
+
+**Product:** User Research · Roadmapping · PRDs · RICE Prioritization · KPI Tracking · A/B Testing · Agile
+
+**AI:** Prompt Engineering · LLM Integration · Claude Code · AI Product Strategy
+
+**Technical:** Python · Kotlin · Next.js · Git · Firebase · Figma · GA4
 
 ---
 
-### 📚 Library AI Chatbot Initiative  
-**Product Requirements & AI Integration**  
-- Authored a PRD defining scope, requirements, and success criteria  
-- Designed conversational UX flows for research and catalog discovery  
-- Focused on responsible AI use in academic environments  
+### Experience
+
+**OpenAI CSU Student Ambassador** — CSUEB *(Oct 2025 – Present)*
+Running AI workshops, building AI culture on campus, partnering with faculty on integration.
+
+**Library Ambassador** — CSUEB *(Mar 2025 – Present)*
+Guiding 100+ students weekly through research tools. Contributed to 35% engagement increase.
+
+**Office Support Assistant** — Sierra College *(Jun 2023 – Jul 2024)*
+Administrative ops, scheduling, and student services. First professional role.
 
 ---
 
-## 🎓 Leadership & Experience Highlights
+### Currently
 
-- **OpenAI — CSU Student Ambassador**  
-  Led responsible AI workshops and partnered with faculty to integrate AI into coursework
-
-- **Library Ambassador — CSU East Bay**  
-  Supported 100+ students weekly; contributed to initiatives increasing engagement by 35%
-
-- **HackHayward Organizing Team**  
-  Supported planning and execution of a campus-wide hackathon
+- 🔍 Actively looking for **full-time PM roles**
+- 🚢 Scaling [Alovia AI](https://aloviaai.com) post-launch
+- 🎤 Leading AI workshops as OpenAI Ambassador
+- 🛠️ Building with Claude Code, Next.js, and Vercel
 
 ---
 
-## 📈 Currently Learning
-
-- Advanced Product Analytics & Experimentation  
-- Backend Architecture with Spring Boot  
-- UX Research & Usability Testing  
-- Cloud Infrastructure Concepts  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jagga-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&icon_color=00ff88&text_color=c8c8c8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jagga-tech&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00e5ff&fire=00ff88&currStreakLabel=00e5ff" height="165" />
+</p>
 
 ---
 
-## 📌 What I'm Looking For
-
-I am actively seeking:
-- **Product Manager Intern**
-- **Associate PM / Product Operations Intern**
-- **Technical Product Intern**
-
-Roles where I can:
-- Own features end-to-end  
-- Learn from senior PMs  
-- Work closely with engineering and design teams  
-
----
-
-Thanks for visiting — feel free to explore my projects or connect with me!
+<p align="center">
+  <i>I build products that people actually use. Let's talk.</i><br/>
+  <a href="https://chanpreetsingh.tech">chanpreetsingh.tech</a>
+</p>
