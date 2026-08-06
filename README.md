@@ -67,35 +67,26 @@ I work at the intersection of **product strategy** and **AI engineering** — I 
 
 ## 🧰 Toolbox
 
-**Product**
-<p>
-  <img src="https://img.shields.io/badge/Roadmapping-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/PRDs-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/User_Research-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/RICE_Prioritization-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/A%2FB_Testing-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/KPI_Tracking-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-</p>
+**Product & Strategy** &nbsp;·&nbsp; User Research &nbsp;·&nbsp; Roadmapping &nbsp;·&nbsp; PRDs &nbsp;·&nbsp; RICE Prioritization &nbsp;·&nbsp; A/B Testing &nbsp;·&nbsp; KPI Tracking &nbsp;·&nbsp; Agile &nbsp;·&nbsp; AI Product Strategy &nbsp;·&nbsp; Prompt Engineering
 
-**AI**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Integration-1a1a1a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-1a1a1a?style=flat-square" />
-</p>
-
-**Engineering**
+**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
@@ -150,5 +141,3 @@ Administrative operations, scheduling, and student services.
   <a href="https://chanpreetsingh.tech">chanpreetsingh.tech</a> &nbsp;·&nbsp;
   <a href="mailto:chanpreet.singh.cv@gmail.com">chanpreet.singh.cv@gmail.com</a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,40:003a52,100:0d0d0d&height=100&section=footer" alt="" />
