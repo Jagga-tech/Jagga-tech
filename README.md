@@ -29,9 +29,12 @@ User Research  █████████████████░░░  85%
 | Project | What it is | Role | Status |
 |---------|-----------|------|--------|
 | [**Alovia AI**](https://aloviaai.com) | AI content protection platform — bot blocking & watermarking | Founder, Product & Engineering | 🟢 Live |
-| **HackHayward** | Campus-wide hackathon at CSUEB | Organizing Team & Tech Lead | 🟡 Active |
-| **Univibe** | Student collaboration platform | Product Manager | ⏸️ Paused |
+| [**portfolio-terminal**](https://github.com/Jagga-tech/portfolio-terminal) | Terminal-style personal portfolio built in TypeScript | Creator | 🟢 Live |
+| [**HackHayward**](https://github.com/Jagga-tech/hackhayward-scanner) | Campus-wide hackathon at CSUEB — Omi AI wearable pickup scanner | Organizing Team & Tech Lead | 🟡 Active |
+| [**twinhaus**](https://github.com/Jagga-tech/twinhaus) | TypeScript project in active development | Builder | 🚧 Building |
+| [**LEXVAULT**](https://github.com/Jagga-tech/LEXVAULT) | JavaScript web project | Creator | 🚧 Building |
 | [**PantryPal**](https://github.com/Jagga-tech/Pantry) | Android grocery & recipe management app | Full-Stack Developer | ✅ Shipped |
+| [**Univibe**](https://github.com/Jagga-tech/Univibe) | Student collaboration platform | Product Manager | ⏸️ Paused |
 
 ---
 
@@ -67,9 +70,23 @@ Administrative ops, scheduling, and student services. First professional role.
 
 ---
 
+### GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jagga-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&icon_color=00ff88&text_color=c8c8c8" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jagga-tech&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&icon_color=00ff88&text_color=c8c8c8" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Jagga-tech&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00e5ff&fire=00ff88&currStreakLabel=00e5ff" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jagga-tech&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&text_color=c8c8c8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jagga-tech&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jagga-tech&color=00e5ff&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
