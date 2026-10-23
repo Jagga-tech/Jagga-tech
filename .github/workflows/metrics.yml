@@ -28,8 +28,8 @@ jobs:
           config_timezone: America/Los_Angeles
           plugin_languages: yes
           plugin_languages_limit: 8
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           # Match the README's dark tokyonight look: #0d0d0d bg, light text,
           # cyan accents, dark calendar empties instead of light grey.
           extras_css: |
