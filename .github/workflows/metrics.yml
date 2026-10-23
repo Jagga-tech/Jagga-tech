@@ -19,7 +19,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Built-in token — no secret setup required. Swap for a personal
+          # access token (secrets.METRICS_TOKEN) later if you want fuller
+          # cross-repo stats.
+          token: ${{ secrets.GITHUB_TOKEN }}
           user: Jagga-tech
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
