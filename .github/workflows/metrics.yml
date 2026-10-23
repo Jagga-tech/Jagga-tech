@@ -33,6 +33,13 @@ jobs:
           # Match the README's dark tokyonight look: #0d0d0d bg, light text,
           # cyan accents, dark calendar empties instead of light grey.
           extras_css: |
-            svg{background:#0d0d0d;color:#c8c8c8}
-            .title,h2,a{color:#00e5ff !important}
-            rect.day[fill="#ebedf0"]{fill:#161b22 !important}
+            svg{background:#0d0d0d;color:#c8ccd1}
+            .items-wrapper{background:#0b1417;border:1px solid #11343c;border-radius:12px}
+            h2,.title{color:#00e5ff !important}
+            a{color:#00e5ff !important}
+            .value{color:#e6edf3 !important}
+            rect.day[fill="#ebedf0"]{fill:#0d1b1f !important}
+            rect.day[fill="#9be9a8"]{fill:#0a4a57 !important}
+            rect.day[fill="#40c463"]{fill:#0e8ba3 !important}
+            rect.day[fill="#30a14e"]{fill:#00bcd4 !important}
+            rect.day[fill="#216e39"]{fill:#00e5ff !important}
