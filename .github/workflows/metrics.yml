@@ -30,3 +30,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          # Match the README's dark tokyonight look: #0d0d0d bg, light text,
+          # cyan accents, dark calendar empties instead of light grey.
+          extras_css: |
+            svg{background:#0d0d0d;color:#c8c8c8}
+            .title,h2,a{color:#00e5ff !important}
+            rect.day[fill="#ebedf0"]{fill:#161b22 !important}
